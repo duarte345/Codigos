@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana;
+}
+h1 {
+    font-family: Arial;
+    font-size: 10px;
+    letter-spacing: 0.7em;
+    color: red;
+    background-color: grey;
+}
+h2 {
+    font-family: Courier;
+    font-size: 12px;
+    text-decoration: underline;
+    text-align: right;
+    color: green;
+    background-color: black;
+}
+h3 {
+    font-family: Georgia;
+    font-size: 14px;
+    font-style:italic;
+    text-decoration: overline;
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+h4 {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    text-decoration: line-through;
+    color: orange;
+}
+h5{
+    font-family: Trebuchet;
+    font-size: 18px;
+    font-weight: normal;
+    color: grey;
+    
+}
+h6{
+    font-family: Garamond;
+    font-size: 20px;
+    font-style: italic;
+    word-spacing: 1.2em;
+    color:lightblue;
+}
+p {
+    font-size: small;
+    font-weight: bold;
+}
